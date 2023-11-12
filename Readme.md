@@ -31,7 +31,7 @@ The project utilizes three main datasets:
 5. Evaluate the model: `python model_evaluation.py`
 
 ## Results
-The model achieved an accuracy of [insert accuracy], with a recall of [insert recall] for fraudulent transactions. Key predictors of fraud include [list key features].
+The model achieved an accuracy of 94%, with a recall of 94% for fraudulent transactions. Key predictors of fraud include Merchant City, Transaction Method, Merchant Name etc.
 
 ## Future Work
 - Explore alternative models and resampling techniques.
@@ -39,8 +39,4 @@ The model achieved an accuracy of [insert accuracy], with a recall of [insert re
 - Implement real-time fraud detection mechanisms.
 
 ## Contact
-For any further questions or contributions, please contact [Your Name] at [Your Email].
-
----
-
-Remember to replace placeholders (like `[insert accuracy]` or `[insert recall]`) with actual values from your project. You may also want to include additional sections or details specific to your project, such as challenges faced, insights gained, or specific conclusions drawn from your analysis.
+For any further questions or contributions, please contact Joseph Oladokun at oladokunjoseph2@gmail.com.
